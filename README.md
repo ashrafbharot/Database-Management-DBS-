@@ -1,1 +1,2 @@
 # Database-Management-DBS-
+This repository includes the work I completed in my Database Management course, where I worked with both SQL and NoSQL databases. Throughout the course, I performed various workshops and assignments that helped me gain hands-on experience in designing, querying, and managing databases. By working with different database models, I developed a solid understanding of data storage, retrieval, and optimization techniques.
